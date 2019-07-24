@@ -1,5 +1,5 @@
 # CRUD-APP-vuejs-django
-This repo contains the code used to in the tutorial on the [medium blog](https://medium.com/@shubhambansal_89125/crud-app-using-vue-js-and-django-516edf4e4217)
+
 
 [![Join the chat at https://gitter.im/crud-app-vuejs-django/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/crud-app-vuejs-django/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -29,7 +29,5 @@ MIT
 
 Contributors
 ---
-If you would any error or issue you can mention in issues or raise a pull request.
 
-Made with ❤
 
